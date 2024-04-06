@@ -14,9 +14,9 @@ to its original state.
 The class is held in file: ```FileBackedDictionary.py```.  The code in this
 this file can tested using file ```test.py```.  You can see the code in action
 under the
-[actionstab](https://github.com/philiprbrenan/FileBackedDictionary/actions)
+[actions tab](https://github.com/philiprbrenan/FileBackedDictionary/actions)
 
-Copyright Philip R Brenan 2024-04-06 as part of the [Silicon Chip Project](http://prb.appaapps.com/zesal/pitchdeck/pitchDeck.html)
+Copyright Philip R. Brenan ```2024-04-06``` as part of the [Silicon Chip Project](http://prb.appaapps.com/zesal/pitchdeck/pitchDeck.html)
 
 ```
 from FileBackedDictionary import FileBackedDictionary
