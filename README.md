@@ -4,7 +4,7 @@
 
 # FileBackedDictionary
 
-A python dictionary object that can save and reload itself to and from a
+A python dictionary object that can save/reload itself to/from a
 backing file to facilitate inter-process communication.
 
 Add fields as you wish to an object simply by assigning to them.  Save the
