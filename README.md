@@ -11,7 +11,7 @@ Add fields as you wish to an object simply by assigning to them.  Save the
 object to the backing file, then change some values before restoring the
 object to its original state.
 
-Copyright Philip R brenan as pert of the (Silicon Chip project)[http://prb.appaapps.com/zesal/pitchdeck/pitchDeck.html]
+Copyright Philip R Brenan as part of the [Silicon Chip project](http://prb.appaapps.com/zesal/pitchdeck/pitchDeck.html)
 
 ```
 from FileBackedDictionary import FileBackedDictionary
